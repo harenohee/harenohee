@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 ---
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=harenohee)](https://github.com/harenohee/velog-readme-stats)
 
 </div>
