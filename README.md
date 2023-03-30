@@ -12,6 +12,5 @@
   
 ---
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=harenohee)](https://github.com/harenohee/velog-readme-stats)
-<img align="right" width="200px" src="https://user-images.githubusercontent.com/82671414/228752973-b0f47d1b-37ac-432f-a6cd-5903be0a36fb.gif"/>
 
 </div>
