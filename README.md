@@ -11,6 +11,6 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"><br/>
   
 ---
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=harenohee)](https://github.com/harenohee/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=harenohee)](https://velog-readme-stats.vercel.app/api/redirect?name=harenohee)
 
 </div>
